@@ -6,7 +6,10 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+=======
+>>>>>>> branch 'master' of https://github.com/cjp11/CollaboratorTest
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
